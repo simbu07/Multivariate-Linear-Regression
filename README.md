@@ -41,7 +41,7 @@ print('Predicted CO2 for the corresponding weight and volume',predictedCO2)
 
 ```
 ## Output:
-![git log](r1.png)
+![git log](r2.png)
 
 
 
